@@ -1,0 +1,6 @@
+{
+    "token": "TOKEN_HERE",
+    "prefix": "/",
+
+    "owners": [you_discord_id]
+}
